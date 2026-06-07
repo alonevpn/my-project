@@ -10,9 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native/new-app-screen": "0.85.3",
+    "expo-insights": "~0.10.8",
+    "expo-observe": "~56.0.19",
     "react": "19.2.3",
     "react-native": "0.85.3",
-    "@react-native/new-app-screen": "0.85.3",
     "react-native-safe-area-context": "^5.5.2"
   },
   "devDependencies": {
