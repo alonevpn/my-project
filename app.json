@@ -1,0 +1,9 @@
+{
+  "name": "MyProject",
+  "displayName": "MyProject",
+  "extra": {
+    "eas": {
+      "projectId": "9f39aa5b-9100-43c0-a6ef-15afc6a2d1dd"
+    }
+  }
+}
