@@ -1,10 +1,16 @@
 {
-  "name": "alonevpn",
-  "displayName": "alonevpn",
-  "extra": {
-    "eas": {
-      "projectId": "9f39aa5b-9100-43c0-a6ef-15afc6a2d1dd"
+  "expo": {
+    "name": "Alone VPN",
+    "slug": "alone-vpn",
+    "version": "1.0.0",
+    "owner": "alonevpn",
+    "android": {
+      "package": "com.alonevpn.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9f39aa5b-9100-43c0-a6ef-15afc6a2d1dd"
+      }
     }
-  },
-  "owner": "alonevpn"
+  }
 }
