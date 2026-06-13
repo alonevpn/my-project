@@ -3,7 +3,7 @@
     "name": "Alone VPN",
     "slug": "alone-vpn",
     "version": "1.0.0",
-    "owner": "alonevpn",
+    "owner": "aalonevpn",
     "android": {
       "package": "com.alonevpn.app"
     },
