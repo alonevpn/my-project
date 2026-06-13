@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Alone VPN",
-    "slug": "my-project",
+    "slug": "myproject",
     "version": "1.0.0",
     "owner": "aalonevpn",
     "android": {
