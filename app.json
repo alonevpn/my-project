@@ -3,6 +3,7 @@
     "name": "Alone VPN",
     "slug": "myproject",
     "version": "1.0.0",
+    "sdkVersion": "56.0.0",
     "owner": "aalonevpn",
     "android": {
       "package": "com.alonevpn.app"
